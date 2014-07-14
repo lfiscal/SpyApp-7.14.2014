@@ -1,0 +1,26 @@
+﻿body {
+ background-color: #928e8e;
+}
+.form-control{
+    width: 200px;
+}
+#crosshairs{
+    cursor:crosshair;
+}
+#dead{
+    text-decoration: line-through;
+    color: red;
+}
+.inputs{
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#spytable{
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.fa fa-search{
+    margin-right: 200px;
+}
